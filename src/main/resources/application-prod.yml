@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+ai:
+  provider: openai
+  model: gpt-5
+  base-url: https://api.openai.com/v1
+  api-key: YOUR_API_KEY
