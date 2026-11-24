@@ -8,6 +8,8 @@ class JavaAiAssistantApplicationTests {
 
 	@Test
 	void contextLoads() {
+	String test="test";
 	}
+	
 
 }
