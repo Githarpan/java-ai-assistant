@@ -9,6 +9,7 @@ class JavaAiAssistantApplicationTests {
 	@Test
 	void contextLoads() {
 	String test123="test";
+	System.out.println("test123: " + test123);
 	}
 	
 
