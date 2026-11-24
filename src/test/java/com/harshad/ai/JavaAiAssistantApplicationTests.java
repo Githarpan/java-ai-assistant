@@ -8,7 +8,7 @@ class JavaAiAssistantApplicationTests {
 
 	@Test
 	void contextLoads() {
-	String test="test";
+	String test123="test";
 	}
 	
 
